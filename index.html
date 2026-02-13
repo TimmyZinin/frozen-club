@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Frozen Club — Закрытый клуб Кати Басковой</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Полный пакет запуска закрытого клуба мастеров педикюра">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <style>
+    :root {
+      --theme-color: #2D5A3D;
+      --theme-color-secondary: #C28A5A;
+      --base-background-color: #FAFAF7;
+      --sidebar-background: #f5f2ed;
+      --sidebar-nav-link-color--active: #2D5A3D;
+      --sidebar-nav-link-border-color--active: #C28A5A;
+      --sidebar-nav-link-font-weight--active: 700;
+      --cover-background-color: linear-gradient(135deg, #2D5A3D 0%, #3d7a53 100%);
+      --cover-heading-color: #fff;
+      --cover-color: #f0f0f0;
+      --cover-button-primary-color: #C28A5A;
+      --heading-color: #1A1A1A;
+      --heading-h2-border-color: #2D5A3D;
+      --link-color: #2D5A3D;
+      --link-color--hover: #C28A5A;
+      --blockquote-border-color: #C28A5A;
+    }
+    .sidebar-nav > ul > li > a {
+      font-weight: 600;
+      text-transform: uppercase;
+      font-size: 0.85em;
+      letter-spacing: 0.5px;
+    }
+    .cover-main .anchor span {
+      color: #fff !important;
+    }
+    .markdown-section table {
+      display: table;
+      width: 100%;
+    }
+    .markdown-section th {
+      background: #2D5A3D;
+      color: #fff;
+    }
+    .app-nav {
+      position: fixed;
+      right: 20px;
+      top: 10px;
+      z-index: 10;
+    }
+    .app-nav a {
+      color: #2D5A3D;
+      font-weight: 600;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: '❄️ Frozen Club',
+      repo: 'TimmyZinin/frozen-club',
+      coverpage: true,
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: {
+        placeholder: 'Поиск...',
+        noData: 'Ничего не найдено',
+        paths: 'auto'
+      },
+      pagination: {
+        previousText: '← Назад',
+        nextText: 'Далее →',
+        crossChapter: true
+      },
+      copyCode: {
+        buttonText: 'Копировать',
+        successText: 'Скопировано!'
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+</body>
+</html>
