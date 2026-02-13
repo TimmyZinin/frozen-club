@@ -1,0 +1,1207 @@
+{
+  "club": {
+    "name": "Frozen Club",
+    "tagline": "Закрытый клуб мастеров педикюра Кати Басковой",
+    "description": "Все курсы, вебинары, разборы и поддержка — в одном месте по подписке"
+  },
+  "courses": [
+    {
+      "id": 1,
+      "title": "Титановая нить",
+      "slug": "titanium-thread",
+      "description": "Полный курс по установке титановой нити при вросшем ногте. От анатомии до работы со сложными случаями. Научитесь решать одну из самых частых проблем в подологии и добавьте к своему чеку 3 000+ рублей за процедуру.",
+      "short_description": "Установка титановой нити при вросшем ногте — от теории до сложных случаев",
+      "category": "podology",
+      "tier_required": "basic",
+      "is_bestseller": true,
+      "duration": "4 недели",
+      "total_lessons": 18,
+      "students_count": 3200,
+      "rating": 4.9,
+      "price_standalone": 12900,
+      "cover_image": "/assets/courses/titanium-thread.jpg",
+      "what_you_learn": [
+        "Анатомия ногтевой пластины и околоногтевого валика",
+        "Причины врастания ногтя и диагностика",
+        "Показания и противопоказания к установке нити",
+        "Пошаговая техника установки титановой нити",
+        "Работа с рецидивами и сложными деформациями",
+        "Как консультировать клиента и продавать услугу за 3 000+ ₽"
+      ],
+      "who_is_for": [
+        "Мастера педикюра, которые хотят работать со сложными случаями",
+        "Начинающие подологи",
+        "Опытные мастера, которые хотят добавить высокомаржинальную услугу"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Теория",
+          "description": "Анатомия ногтя, причины врастания, показания и противопоказания",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Анатомия ногтевой пластины",
+              "slug": "anatomy-nail-plate",
+              "duration_seconds": 1200,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Строение ногтя, матрикс, гипонихий — всё что нужно знать для работы с титановой нитью",
+              "attachments": ["Схема строения ногтя (PDF)"]
+            },
+            {
+              "title": "Причины врастания ногтя",
+              "slug": "ingrown-nail-causes",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Генетика, обувь, неправильная обработка — разбираем все причины",
+              "attachments": []
+            },
+            {
+              "title": "Показания и противопоказания",
+              "slug": "indications-contraindications",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Когда ставим нить, а когда направляем к врачу",
+              "attachments": ["Чек-лист показаний и противопоказаний (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Инструменты и материалы",
+          "description": "Полный список инструментов, где купить, бюджет на старт",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Набор инструментов для работы с титановой нитью",
+              "slug": "tools-overview",
+              "duration_seconds": 1100,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Всё что нужно: от пинцетов до кусачек. Обзор брендов и цен",
+              "attachments": ["Чек-лист инструментов с ценами (PDF)"]
+            },
+            {
+              "title": "Титановые нити: виды и подбор",
+              "slug": "titanium-wires-types",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Какую нить выбрать для разных случаев, где заказать",
+              "attachments": []
+            },
+            {
+              "title": "Подготовка рабочего места",
+              "slug": "workspace-setup",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как организовать рабочее пространство для безопасной работы",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: Техника установки",
+          "description": "Пошаговое видео установки титановой нити на модели",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "Подготовка ногтя к установке",
+              "slug": "nail-preparation",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Обработка, дезинфекция, оценка состояния перед установкой",
+              "attachments": []
+            },
+            {
+              "title": "Установка нити: пошаговая техника",
+              "slug": "installation-step-by-step",
+              "duration_seconds": 2400,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Полная демонстрация на модели — от первого шага до фиксации",
+              "attachments": ["Пошаговая инструкция (PDF)"]
+            },
+            {
+              "title": "Фиксация и финальная обработка",
+              "slug": "fixation-final",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как правильно зафиксировать нить и что делать после установки",
+              "attachments": []
+            },
+            {
+              "title": "Рекомендации клиенту после процедуры",
+              "slug": "aftercare-recommendations",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 4,
+              "description": "Памятка для клиента: уход, повторный визит, красные флаги",
+              "attachments": ["Памятка для клиента (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Сложные случаи",
+          "description": "Рецидивы, тяжёлые деформации, комбинированные методы",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "Рецидив врастания: причины и тактика",
+              "slug": "recurrence-tactics",
+              "duration_seconds": 1100,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Почему нить не помогла с первого раза и что делать дальше",
+              "attachments": []
+            },
+            {
+              "title": "Работа с сильной деформацией",
+              "slug": "severe-deformation",
+              "duration_seconds": 1500,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Когда ноготь закручен, утолщён или повреждён грибком",
+              "attachments": []
+            },
+            {
+              "title": "Комбинация методов: нить + тампонада + тейпирование",
+              "slug": "combined-methods",
+              "duration_seconds": 1200,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как комбинировать техники для максимального результата",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 5: Работа с клиентом",
+          "description": "Консультация, объяснение процедуры, ценообразование и upsell",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Консультация: как объяснить клиенту необходимость нити",
+              "slug": "client-consultation",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Скрипт консультации: что говорить, чтобы клиент доверился",
+              "attachments": ["Скрипт консультации (PDF)"]
+            },
+            {
+              "title": "Ценообразование: как продавать услугу за 3 000+ ₽",
+              "slug": "pricing-upsell",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Расчёт себестоимости, формирование цены, как не стесняться высокого чека",
+              "attachments": ["Калькулятор себестоимости (PDF)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Дисковый педикюр",
+      "slug": "disc-pedicure",
+      "description": "Скоростная дисковая техника обработки стоп. Научитесь делать педикюр в 2 раза быстрее без потери качества. Идеально для мастеров, которые хотят увеличить поток клиентов.",
+      "short_description": "Скоростная дисковая техника обработки стоп — в 2 раза быстрее",
+      "category": "technique",
+      "tier_required": "basic",
+      "is_bestseller": false,
+      "duration": "2 недели",
+      "total_lessons": 15,
+      "students_count": 2100,
+      "rating": 4.8,
+      "price_standalone": 4590,
+      "cover_image": "/assets/courses/disc-pedicure.jpg",
+      "what_you_learn": [
+        "Преимущества дисковой техники перед классической",
+        "Подбор дисков и оборудования",
+        "Базовая техника дисковой обработки стоп",
+        "Продвинутые приёмы для сложных стоп",
+        "Совмещение дисковой и аппаратной техники"
+      ],
+      "who_is_for": [
+        "Мастера педикюра, которые хотят ускорить работу",
+        "Мастера с потоком клиентов, которым нужна скорость",
+        "Начинающие мастера, которые хотят освоить современную технику"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Зачем диск?",
+          "description": "Преимущества скоростной техники, сравнение с классикой",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Дисковая техника vs классика: сравнение",
+              "slug": "disc-vs-classic",
+              "duration_seconds": 800,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Почему диск быстрее и когда он лучше классической техники",
+              "attachments": []
+            },
+            {
+              "title": "Экономика скорости: как диск увеличивает доход",
+              "slug": "speed-economics",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Расчёт: сколько дополнительных клиентов вы примете за день",
+              "attachments": ["Калькулятор дохода (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Оборудование и диски",
+          "description": "Подбор дисков, аппаратов, уход за оборудованием",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Обзор дисков: виды, абразивность, назначение",
+              "slug": "disc-types-review",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Керамические, алмазные, карбидные — какой для чего",
+              "attachments": ["Таблица дисков по назначению (PDF)"]
+            },
+            {
+              "title": "Подбор аппарата для дисковой техники",
+              "slug": "machine-selection",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Мощность, обороты, бренды — что важно при выборе",
+              "attachments": []
+            },
+            {
+              "title": "Уход за дисками и стерилизация",
+              "slug": "disc-care-sterilization",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как продлить жизнь дискам и соблюдать СанПиН",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: Базовая техника",
+          "description": "Пошаговая демонстрация дисковой обработки на модели",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "Подготовка стопы к обработке",
+              "slug": "foot-preparation",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Осмотр, размачивание, оценка состояния кожи",
+              "attachments": []
+            },
+            {
+              "title": "Дисковая обработка стопы: полная демонстрация",
+              "slug": "full-disc-demo",
+              "duration_seconds": 2400,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "От пятки до пальцев — полный процесс на модели",
+              "attachments": ["Пошаговый алгоритм (PDF)"]
+            },
+            {
+              "title": "Работа с пальцами и межпальцевыми промежутками",
+              "slug": "toes-between-toes",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Тонкости обработки пальцев дисковой техникой",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Продвинутые приёмы",
+          "description": "Сложные стопы, натоптыши, трещины",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "Глубокие трещины пяток",
+              "slug": "deep-heel-cracks",
+              "duration_seconds": 1100,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Техника работы с трещинами: от мягкого до жёсткого случая",
+              "attachments": []
+            },
+            {
+              "title": "Сухие натоптыши и гиперкератоз",
+              "slug": "calluses-hyperkeratosis",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как убрать плотные натоптыши быстро и безопасно",
+              "attachments": []
+            },
+            {
+              "title": "Диабетическая стопа: особенности работы",
+              "slug": "diabetic-foot",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Правила безопасности при работе с пациентами с диабетом",
+              "attachments": ["Протокол работы с диабетической стопой (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 5: Совмещение техник",
+          "description": "Комбинация дисковой и аппаратной техники для лучшего результата",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Когда добавлять аппарат к дисковой технике",
+              "slug": "when-add-machine",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Алгоритм принятия решения: диск, аппарат или оба",
+              "attachments": []
+            },
+            {
+              "title": "Комбинированный педикюр: полная демонстрация",
+              "slug": "combined-pedicure-demo",
+              "duration_seconds": 2000,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Работа на модели: диск + аппарат за одну процедуру",
+              "attachments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Секcиногтусы 1.0",
+      "slug": "sexynogtus",
+      "description": "Полный курс по работе с деформированными и вросшими ногтями. Тампонирование, тейпирование, комплексный подход. Научитесь решать проблемы, от которых отказываются другие мастера.",
+      "short_description": "Работа с деформированными и вросшими ногтями — тампонирование и тейпирование",
+      "category": "podology",
+      "tier_required": "basic",
+      "is_bestseller": false,
+      "duration": "3 недели",
+      "total_lessons": 16,
+      "students_count": 1800,
+      "rating": 4.9,
+      "price_standalone": 3900,
+      "cover_image": "/assets/courses/sexynogtus.jpg",
+      "what_you_learn": [
+        "Классификация деформаций ногтей",
+        "Техника тампонирования от А до Я",
+        "Техники тейпирования для разных случаев",
+        "Комплексный план работы с клиентом",
+        "Когда направлять клиента к врачу"
+      ],
+      "who_is_for": [
+        "Мастера педикюра, работающие с проблемными ногтями",
+        "Начинающие подологи",
+        "Мастера, которые хотят расширить спектр услуг"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Деформации ногтей — классификация",
+          "description": "Виды деформаций, причины, диагностика",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Виды деформаций ногтевой пластины",
+              "slug": "deformation-types",
+              "duration_seconds": 1000,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Онихогрифоз, ониходистрофия, скрученные ногти — полная классификация",
+              "attachments": ["Атлас деформаций (PDF)"]
+            },
+            {
+              "title": "Диагностика: как оценить состояние ногтя",
+              "slug": "nail-diagnostics",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "На что смотреть, что фиксировать, как документировать",
+              "attachments": ["Форма осмотра ногтей (PDF)"]
+            },
+            {
+              "title": "Причины деформаций и профилактика",
+              "slug": "deformation-causes",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Генетика, обувь, травмы, грибок — как объяснить клиенту",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Тампонирование — теория и практика",
+          "description": "Полный курс тампонирования ногтевого валика",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Тампонирование: зачем и когда",
+              "slug": "tamponade-theory",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Показания, противопоказания, ожидаемый результат",
+              "attachments": []
+            },
+            {
+              "title": "Материалы для тампонирования",
+              "slug": "tamponade-materials",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Обзор материалов: каподастры, тампоны, клеи",
+              "attachments": ["Список материалов с ценами (PDF)"]
+            },
+            {
+              "title": "Тампонирование: пошаговая техника",
+              "slug": "tamponade-technique",
+              "duration_seconds": 1800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Полная демонстрация на модели: подготовка → установка → фиксация",
+              "attachments": ["Пошаговая инструкция (PDF)"]
+            },
+            {
+              "title": "Ошибки при тампонировании и как их избежать",
+              "slug": "tamponade-mistakes",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 4,
+              "description": "ТОП-5 ошибок новичков и как их исправить",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: Тейпирование — техники и материалы",
+          "description": "Разные техники тейпирования для коррекции ногтей",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "Тейпирование: принципы и показания",
+              "slug": "taping-principles",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как тейпирование помогает скорректировать рост ногтя",
+              "attachments": []
+            },
+            {
+              "title": "Виды тейпов и их применение",
+              "slug": "tape-types",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Кинезио-тейп, подологический тейп, лейкопластырь — когда что",
+              "attachments": []
+            },
+            {
+              "title": "Техника тейпирования: 3 метода",
+              "slug": "taping-3-methods",
+              "duration_seconds": 1500,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Три техники тейпирования для разных типов врастания",
+              "attachments": ["Схемы тейпирования (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Комплексная работа",
+          "description": "Составление плана лечения для клиента",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "План работы: от первого визита до результата",
+              "slug": "treatment-plan",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как составить пошаговый план для клиента на 2-3 месяца",
+              "attachments": ["Шаблон плана лечения (PDF)"]
+            },
+            {
+              "title": "Комбинация методов: когда что применять",
+              "slug": "method-combination",
+              "duration_seconds": 1200,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Тампонада + тейпирование + нить — как комбинировать",
+              "attachments": []
+            },
+            {
+              "title": "Ведение фотопротокола",
+              "slug": "photo-protocol",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как фотографировать до/после для документации и маркетинга",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 5: Когда направлять к врачу",
+          "description": "Красные флаги и границы компетенции мастера",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Красные флаги: признаки, при которых нельзя работать",
+              "slug": "red-flags",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Инфекция, некроз, подозрение на онкологию — когда стоп",
+              "attachments": ["Чек-лист красных флагов (PDF)"]
+            },
+            {
+              "title": "Как правильно направить клиента к врачу",
+              "slug": "referral-to-doctor",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как сказать клиенту «вам нужно к врачу» и не потерять его",
+              "attachments": []
+            },
+            {
+              "title": "Юридические аспекты: границы компетенции",
+              "slug": "legal-boundaries",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Что можно и нельзя делать без медицинской лицензии",
+              "attachments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Лаковое покрытие в педикюре",
+      "slug": "nail-coating",
+      "description": "Всё о лаковом покрытии на ногах: подготовка пластины, техника нанесения, работа с проблемными ногтями. Бонус: однофазные гель-лаки — быстро, красиво, без сколов.",
+      "short_description": "Секреты идеального покрытия на ногах + однофазные гель-лаки",
+      "category": "technique",
+      "tier_required": "basic",
+      "is_bestseller": false,
+      "duration": "1.5 недели",
+      "total_lessons": 12,
+      "students_count": 2400,
+      "rating": 4.7,
+      "price_standalone": 2900,
+      "cover_image": "/assets/courses/nail-coating.jpg",
+      "what_you_learn": [
+        "Особенности покрытия на ногах vs на руках",
+        "Правильная подготовка ногтевой пластины",
+        "Техника нанесения без затёков и пузырей",
+        "Работа с проблемными ногтями (тонкие, неровные, повреждённые)",
+        "Однофазные гель-лаки: техника для ленивых и быстрых"
+      ],
+      "who_is_for": [
+        "Мастера педикюра, которые делают покрытие",
+        "Мастера маникюра, начинающие работать со стопами",
+        "Мастера, которые хотят улучшить качество покрытия"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Особенности покрытия на ногах",
+          "description": "Чем покрытие на ногах отличается от маникюрного",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Педикюрное покрытие: что нужно знать",
+              "slug": "pedicure-coating-basics",
+              "duration_seconds": 700,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Отличия от маникюрного покрытия, частые проблемы",
+              "attachments": []
+            },
+            {
+              "title": "Выбор материалов: лаки, базы, топы для педикюра",
+              "slug": "materials-selection",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Какие бренды и формулы работают лучше на ногах",
+              "attachments": ["Таблица рекомендуемых материалов (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Подготовка ногтевой пластины",
+          "description": "От чистки до обезжиривания — идеальная подготовка",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Обработка кутикулы и боковых валиков",
+              "slug": "cuticle-processing",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как подготовить ногтевой аппарат к покрытию",
+              "attachments": []
+            },
+            {
+              "title": "Шлифовка и обезжиривание",
+              "slug": "buffing-degreasing",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Пошаговая подготовка для максимальной адгезии",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: Техника нанесения",
+          "description": "Видео-демонстрация нанесения покрытия",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "Нанесение базы и цвета: техника без затёков",
+              "slug": "base-color-application",
+              "duration_seconds": 1200,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как наносить ровно, без затёков на кожу и пузырей",
+              "attachments": []
+            },
+            {
+              "title": "Работа с большим пальцем",
+              "slug": "big-toe-technique",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Особенности покрытия большого пальца ноги",
+              "attachments": []
+            },
+            {
+              "title": "Финиш: топ и снятие липкого слоя",
+              "slug": "top-coat-finish",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Завершающий этап для идеального блеска",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Работа с проблемными ногтями",
+          "description": "Покрытие на тонких, неровных и повреждённых ногтях",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "Тонкие и ломкие ногти: укрепление + покрытие",
+              "slug": "thin-brittle-nails",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как укрепить и покрыть хрупкие ногти на ногах",
+              "attachments": []
+            },
+            {
+              "title": "Неровные ногти: выравнивание базой",
+              "slug": "uneven-nails-leveling",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Техника выравнивания для красивого результата",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Бонус: Однофазные гель-лаки",
+          "description": "Быстрая техника с однофазными системами",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Однофазные гель-лаки: преимущества и нюансы",
+              "slug": "one-phase-gel-advantages",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Когда однофазка лучше трёхфазки и наоборот",
+              "attachments": []
+            },
+            {
+              "title": "Техника нанесения однофазного гель-лака",
+              "slug": "one-phase-gel-technique",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Демонстрация: от подготовки до финиша за один слой",
+              "attachments": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Мозоли и ВПЧ",
+      "slug": "calluses-hpv",
+      "description": "Глубокий курс по диагностике и обработке мозолей всех видов. Отдельный блок по ВПЧ (бородавкам) — как отличить от мозоли, методы работы и красные флаги. Для мастеров, которые хотят уверенно работать со сложной кожей.",
+      "short_description": "Диагностика и обработка мозолей всех видов + работа с ВПЧ",
+      "category": "podology",
+      "tier_required": "pro",
+      "is_bestseller": false,
+      "duration": "2.5 недели",
+      "total_lessons": 17,
+      "students_count": 1200,
+      "rating": 4.8,
+      "price_standalone": 5900,
+      "cover_image": "/assets/courses/calluses-hpv.jpg",
+      "what_you_learn": [
+        "Классификация мозолей: сухие, стержневые, мокрые",
+        "Техники обработки стержневых мозолей (5 методов)",
+        "Отличие ВПЧ (бородавок) от мозолей",
+        "Безопасные методы работы с ВПЧ",
+        "Красные флаги — когда НЕ работать"
+      ],
+      "who_is_for": [
+        "Мастера педикюра с опытом от 1 года",
+        "Подологи, работающие со сложными случаями",
+        "Мастера, которые хотят уверенно работать с кожными образованиями"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Виды мозолей — диагностика",
+          "description": "Полная классификация мозолей и методы диагностики",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Классификация мозолей: полный гайд",
+              "slug": "callus-classification",
+              "duration_seconds": 1000,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Сухие, мокрые, стержневые, нейроваскулярные — как отличить",
+              "attachments": ["Атлас мозолей с фото (PDF)"]
+            },
+            {
+              "title": "Причины образования и профилактика",
+              "slug": "callus-causes-prevention",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Биомеханика, обувь, нагрузка — почему мозоли возвращаются",
+              "attachments": []
+            },
+            {
+              "title": "Осмотр и документация",
+              "slug": "examination-documentation",
+              "duration_seconds": 600,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как правильно осмотреть и зафиксировать состояние",
+              "attachments": ["Форма осмотра (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Стержневые мозоли",
+          "description": "Самый сложный тип мозолей — разбираем подробно",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Стержневая мозоль: строение и диагностика",
+              "slug": "core-callus-diagnosis",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как устроена стержневая мозоль и как найти стержень",
+              "attachments": []
+            },
+            {
+              "title": "Техника удаления стержневой мозоли: метод 1 — высверливание",
+              "slug": "core-removal-drilling",
+              "duration_seconds": 1200,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Аппаратное удаление стержня: фрезы, скорость, давление",
+              "attachments": []
+            },
+            {
+              "title": "Техника удаления: методы 2-3 — скальпель и кюретка",
+              "slug": "core-removal-scalpel",
+              "duration_seconds": 1100,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Ручные техники для разных локализаций",
+              "attachments": []
+            },
+            {
+              "title": "Техника удаления: методы 4-5 — кислоты и комбинированный",
+              "slug": "core-removal-acid-combined",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 4,
+              "description": "Химические методы и комбинация техник",
+              "attachments": ["Сравнительная таблица методов (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: ВПЧ (бородавки)",
+          "description": "Отличие ВПЧ от мозолей, методы работы",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "ВПЧ vs мозоль: как отличить",
+              "slug": "hpv-vs-callus",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Визуальные признаки, дерматоскопия, тест с капиллярами",
+              "attachments": ["Сравнительная карточка ВПЧ/мозоль (PDF)"]
+            },
+            {
+              "title": "Работа с подошвенными бородавками",
+              "slug": "plantar-warts-treatment",
+              "duration_seconds": 1200,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Что мастер может делать, а что — только врач",
+              "attachments": []
+            },
+            {
+              "title": "Защита мастера при работе с ВПЧ",
+              "slug": "hpv-protection",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "СИЗ, дезинфекция, утилизация — протокол безопасности",
+              "attachments": ["Протокол безопасности при ВПЧ (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Методы обработки (5 техник)",
+          "description": "Практические техники обработки разных типов мозолей",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "Обработка сухих мозолей и натоптышей",
+              "slug": "dry-callus-treatment",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Аппаратная и ручная техника для сухих мозолей",
+              "attachments": []
+            },
+            {
+              "title": "Работа с мокрыми мозолями и пузырями",
+              "slug": "wet-callus-treatment",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Дренирование, обработка, перевязка — безопасный протокол",
+              "attachments": []
+            },
+            {
+              "title": "Нейроваскулярные мозоли: особый подход",
+              "slug": "neurovascular-callus",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Мозоли с кровеносными сосудами и нервами — как не навредить",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 5: Красные флаги",
+          "description": "Когда НЕ работать — границы компетенции",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Красные флаги при мозолях и ВПЧ",
+              "slug": "red-flags-calluses-hpv",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Признаки, при которых нужно остановиться и направить к врачу",
+              "attachments": ["Чек-лист красных флагов (PDF)"]
+            },
+            {
+              "title": "Меланома и другие опасные образования",
+              "slug": "melanoma-dangerous-formations",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как отличить мозоль от потенциально опасного образования",
+              "attachments": []
+            },
+            {
+              "title": "Алгоритм принятия решений: работать или направить",
+              "slug": "decision-algorithm",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Пошаговый алгоритм: когда работать, а когда отправить к дерматологу",
+              "attachments": ["Блок-схема принятия решений (PDF)"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Бизнес для мастера педикюра",
+      "slug": "business-for-pedicurist",
+      "description": "Курс для мастеров, которые хотят зарабатывать больше. Позиционирование, ценообразование, привлечение клиентов без зависимости от Instagram, удержание и масштабирование. Реальные инструменты, без воды и мотивационных лозунгов.",
+      "short_description": "Позиционирование, ценообразование и привлечение клиентов без Instagram-зависимости",
+      "category": "business",
+      "tier_required": "pro",
+      "is_bestseller": false,
+      "duration": "3 недели",
+      "total_lessons": 15,
+      "students_count": 0,
+      "rating": 0,
+      "price_standalone": null,
+      "cover_image": "/assets/courses/business-pedicure.jpg",
+      "what_you_learn": [
+        "Как выбрать нишу: педикюр vs подология vs премиум-сегмент",
+        "Как перестать стесняться своей цены и поднять чек",
+        "3 канала привлечения клиентов без Instagram",
+        "Как удерживать клиентов и строить повторные визиты",
+        "Как масштабироваться: свой кабинет, ученики, партнёрства"
+      ],
+      "who_is_for": [
+        "Мастера педикюра, которые хотят зарабатывать больше",
+        "Мастера, зависящие от одного канала привлечения",
+        "Те, кто думает о своём кабинете или обучении учеников"
+      ],
+      "modules": [
+        {
+          "name": "Модуль 1: Позиционирование и ниша",
+          "description": "Как выделиться среди тысяч мастеров",
+          "order": 1,
+          "lessons": [
+            {
+              "title": "Педикюр, подология или премиум? Выбираем нишу",
+              "slug": "choose-your-niche",
+              "duration_seconds": 1000,
+              "is_free_preview": true,
+              "order": 1,
+              "description": "Анализ ниш: где больше денег, где меньше конкуренция",
+              "attachments": ["Матрица ниш (PDF)"]
+            },
+            {
+              "title": "Уникальное торговое предложение мастера",
+              "slug": "unique-selling-proposition",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как сформулировать то, чем ты отличаешься от конкурентов",
+              "attachments": ["Шаблон УТП (PDF)"]
+            },
+            {
+              "title": "Личный бренд мастера: простые шаги",
+              "slug": "personal-brand",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как строить личный бренд без миллионного бюджета",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 2: Ценообразование",
+          "description": "Как перестать стесняться своей цены",
+          "order": 2,
+          "lessons": [
+            {
+              "title": "Расчёт себестоимости услуги",
+              "slug": "cost-calculation",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Материалы, время, аренда, налоги — считаем всё",
+              "attachments": ["Калькулятор себестоимости (Excel)"]
+            },
+            {
+              "title": "Психология цены: почему клиенты платят больше",
+              "slug": "price-psychology",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как формировать цену, которую не стыдно называть",
+              "attachments": []
+            },
+            {
+              "title": "Как поднять чек без потери клиентов",
+              "slug": "raise-prices",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Пошаговый план повышения цен: когда, как и что говорить",
+              "attachments": ["Скрипт повышения цен (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 3: Привлечение клиентов",
+          "description": "3 канала привлечения без Instagram-зависимости",
+          "order": 3,
+          "lessons": [
+            {
+              "title": "Сарафанное радио 2.0: система рекомендаций",
+              "slug": "referral-system",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Как превратить довольных клиентов в канал привлечения",
+              "attachments": ["Шаблон реферальной программы (PDF)"]
+            },
+            {
+              "title": "Локальный маркетинг: Яндекс Карты, 2ГИС, Авито",
+              "slug": "local-marketing",
+              "duration_seconds": 1000,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Бесплатные и дешёвые способы привлечения клиентов рядом с тобой",
+              "attachments": ["Чек-лист: регистрация на 5 площадках (PDF)"]
+            },
+            {
+              "title": "Партнёрства: салоны, клиники, магазины",
+              "slug": "partnerships",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Как договариваться о партнёрстве и обмениваться клиентами",
+              "attachments": []
+            }
+          ]
+        },
+        {
+          "name": "Модуль 4: Удержание и повторные визиты",
+          "description": "Как сделать клиентов постоянными",
+          "order": 4,
+          "lessons": [
+            {
+              "title": "Системы записи и напоминания",
+              "slug": "booking-reminders",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "CRM, мессенджеры, автоматизация — что подходит мастеру",
+              "attachments": []
+            },
+            {
+              "title": "Сервис как конкурентное преимущество",
+              "slug": "service-advantage",
+              "duration_seconds": 700,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Мелочи, которые делают клиентов фанатами: от чая до упаковки",
+              "attachments": []
+            },
+            {
+              "title": "Программа лояльности для мастера-одиночки",
+              "slug": "loyalty-program",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Простая программа лояльности без сложных IT-решений",
+              "attachments": ["Шаблон программы лояльности (PDF)"]
+            }
+          ]
+        },
+        {
+          "name": "Модуль 5: Масштабирование",
+          "description": "Свой кабинет, ученики, партнёрства",
+          "order": 5,
+          "lessons": [
+            {
+              "title": "Свой кабинет: считаем и планируем",
+              "slug": "own-office-planning",
+              "duration_seconds": 1100,
+              "is_free_preview": false,
+              "order": 1,
+              "description": "Сколько нужно зарабатывать, чтобы открыть свой кабинет",
+              "attachments": ["Финансовая модель кабинета (Excel)"]
+            },
+            {
+              "title": "Обучение учеников: как стать преподавателем",
+              "slug": "become-teacher",
+              "duration_seconds": 900,
+              "is_free_preview": false,
+              "order": 2,
+              "description": "Как создать свой курс и начать обучать других мастеров",
+              "attachments": []
+            },
+            {
+              "title": "Пассивный доход для мастера педикюра",
+              "slug": "passive-income",
+              "duration_seconds": 800,
+              "is_free_preview": false,
+              "order": 3,
+              "description": "Продажа инструментов, партнёрские программы, онлайн-продукты",
+              "attachments": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "monthly_content": {
+    "description": "Ежемесячный контент клуба помимо курсов",
+    "items": [
+      {
+        "type": "case_review",
+        "frequency": "2 раза в месяц",
+        "description": "Мини-разборы реальных случаев из практики Кати",
+        "tier_required": "basic",
+        "duration_minutes": 10
+      },
+      {
+        "type": "live_webinar",
+        "frequency": "1 раз в месяц",
+        "description": "Живой вебинар с Катей: разбор кейсов, ответы на вопросы",
+        "tier_required": "pro",
+        "duration_minutes": 60
+      },
+      {
+        "type": "industry_digest",
+        "frequency": "1 раз в месяц",
+        "description": "Подборка полезных материалов: статьи, новинки индустрии",
+        "tier_required": "basic",
+        "format": "email + пост в сообществе"
+      },
+      {
+        "type": "katya_answers",
+        "frequency": "1 раз в месяц",
+        "description": "«Разбор от Кати» — видео-ответы на вопросы учениц",
+        "tier_required": "basic",
+        "duration_minutes": 15
+      }
+    ]
+  }
+}
